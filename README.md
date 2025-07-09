@@ -7,5 +7,4 @@ Below is a workflow diagram
 ![Diagram](diagram)
 
 
-Below is the final product. These are the clusters that the model created.
-![cluster_ex](cluster_ex.pdf)
+Attached here is the final clustering. Displayed here is the groups that the model created. ![cluster_ex](cluster_ex.pdf)
