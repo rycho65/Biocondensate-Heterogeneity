@@ -7,7 +7,7 @@ Below is a workflow diagram
 ![Diagram](diagram)
 
 
-Attached here is the final clustering. Displayed here is the groups that the model created. ![cluster_ex](cluster_ex.pdf)
+Attached here is the final clustering. Displayed here is the groups that the model created. ![grouped](grouped)
 
 After making the groupings, a spider chart was created that gave each cluster it's own characteristic or niche based off average values calculated.
 ![spider](spider)
