@@ -6,7 +6,7 @@ As part of the Saurabh Lab at NYU, I was working closely with PhD and PhD candid
 Below is a workflow diagram
 ![Diagram](diagram)
 
-Attached here is the final clustering. Displayed here is the groups that the model created. ![grouped](grouped)
+Attached here is the final clustering. Displayed here is the groups that the model created. ![grouped2](grouped2)
 
 After making the groupings, a spider chart was created that gave each cluster it's own characteristic or niche based off average values calculated.
 ![spider](spider)
